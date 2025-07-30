@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhil Appani</h1>
-<h3 align="center">Data Scientist | Data Engineer | Driving Business Insights with Data</h3>
+<h3 align="center">Data Scientist | Data Engineer | Transforming Data into Insights</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=appaniakhil&label=Profile%20Views&color=0e75b6&style=flat" alt="appaniakhil" />
@@ -14,12 +14,12 @@
 ---
 
 ### 📖 About Me
-- 🎓 **M.S. in Data Science & Business Analytics** from Saint Peter's University (GPA: 3.9/4.0).
-- 💼 Over **6 years** of experience in data science, data engineering, and advanced analytics across Retail, eCommerce, Financial Services, and Healthcare.
-- 💻 Skilled in building scalable **data pipelines**, **machine learning models**, and **business intelligence solutions** using Python, PySpark, SQL, and cloud platforms (AWS, Azure, GCP).
-- 🚀 Passionate about transforming complex data into actionable insights through data storytelling and interactive dashboards.
+- 🎓 M.S. in Data Science & Business Analytics, Saint Peter's University (GPA: 3.9/4.0)
+- 💼 6+ years of experience in data science, data engineering, and analytics in Retail, eCommerce, Financial Services, and Healthcare
+- 💻 Expert in building **machine learning models**, **data pipelines**, and **interactive dashboards** using Python, PySpark, SQL, and cloud platforms (AWS, Azure, GCP)
+- 🚀 Passionate about delivering actionable insights through data storytelling and advanced analytics
 - 📫 Reach me at: **akhil.appani@gmail.com**
-- 🌐 Connect with me: [LinkedIn](https://linkedin.com/in/akhilappani) | [Twitter](https://twitter.com/appaniakhil) | [GitHub](https://github.com/appaniakhil)
+- 🌐 Connect: [LinkedIn](https://linkedin.com/in/akhilappani) | [Twitter](https://twitter.com/appaniakhil) | [GitHub](https://github.com/appaniakhil)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 🚀 Featured Projects
 1. **Advanced Sentiment Analysis using Deep Learning**  
-   - Description: Built LSTM neural networks for sentiment classification on a 431K Amazon mobile reviews dataset, leveraging NLP and machine learning for customer insights.  
+   - Description: Built LSTM neural networks for sentiment classification on a 431K Amazon mobile reviews dataset, leveraging NLP for customer insights.  
    - Tech Stack: Python, TensorFlow, NLP, AWS  
    - [Link to Repository](https://github.com/appaniakhil/sentiment-analysis)
 
@@ -69,38 +69,34 @@
 
 ---
 
-### 💼 Professional Experience
-**Data Scientist / Data Engineer | Select Water Solutions, Edison, NJ**  
-*April 2023 – Present*  
-- Designed scalable data pipelines using Apache Spark and AWS (EMR, S3, Redshift, SageMaker), improving data processing efficiency by 35%.  
-- Developed machine learning models, achieving 25% improvement in business intelligence accuracy and $2M+ in cost savings through data storytelling and Tableau dashboards.  
-- Implemented ETL processes and data quality assessments, reducing errors by 40%.
+### 💼 Professional Highlights
+- **Data Scientist / Data Engineer** (Apr 2023 – Present)  
+  - Built scalable data pipelines with Apache Spark and AWS, improving efficiency by 35%.  
+  - Developed ML models and Tableau dashboards, driving $2M+ in cost savings.  
+  - Reduced data processing errors by 40% through ETL and quality assessments.
 
-**Data Analyst | PC Connection, Merrimack, NH**  
-*Jan 2022 – Feb 2023*  
-- Built fraud detection models using neural networks, reducing fraudulent transactions by 85% and saving $500K+ annually.  
-- Developed ETL pipelines with AWS Glue and Spark, and created real-time Tableau/QuickSight dashboards for sales and marketing insights.  
-- Improved lead qualification accuracy by 25% through clustering and regression analysis.
+- **Data Analyst** (Jan 2022 – Feb 2023)  
+  - Created fraud detection models, reducing fraudulent transactions by 85% and saving $500K+.  
+  - Built ETL pipelines with AWS Glue and Spark, and real-time Tableau/QuickSight dashboards.  
+  - Improved lead qualification accuracy by 25% using clustering and regression.
 
-**Data Science Researcher | St. Peter's University, Jersey City, NJ**  
-*Sep 2020 – Jan 2022*  
-- Conducted research on predictive models (Logistic Regression, SVM, Random Forest), achieving 85% accuracy in customer churn prediction.  
-- Built data pipelines using AWS (Glue, S3, Redshift) and Python, improving data processing efficiency by 40%.  
-- Created Tableau dashboards, reducing manual reporting efforts by 30%.
+- **Data Science Researcher** (Sep 2020 – Jan 2022)  
+  - Achieved 85% accuracy in churn prediction models using Logistic Regression and Random Forest.  
+  - Built AWS-based data pipelines, improving processing efficiency by 40%.  
+  - Reduced manual reporting by 30% with Tableau dashboards.
 
-**Data Analyst | KPIT Technologies, India**  
-*Sep 2018 – Dec 2019*  
-- Developed ETL pipelines with SQL and AWS, enabling seamless data integration for automotive and logistics analytics.  
-- Created interactive dashboards with Tableau, providing actionable insights for stakeholders.  
-- Conducted statistical analysis using R and SAS, optimizing business performance metrics.
+- **Data Analyst** (Sep 2018 – Dec 2019)  
+  - Developed ETL pipelines with SQL and AWS for automotive analytics.  
+  - Created Tableau dashboards for actionable stakeholder insights.  
+  - Optimized business metrics using R and SAS statistical analysis.
 
 ---
 
 ### 🎓 Education
 - **M.S. in Data Science & Business Analytics**  
-  Saint Peter's University, Jersey City, NJ | *Feb 2022* | GPA: 3.9/4.0  
+  Saint Peter's University, Jersey City, NJ | Feb 2022 | GPA: 3.9/4.0  
 - **B.S. in Computer Science & Engineering**  
-  Lovely Professional University, India | *2018* | GPA: 6.34/10.0  
+  Lovely Professional University, India | 2018 | GPA: 6.34/10.0  
 
 ---
 
@@ -126,4 +122,4 @@
   <a href="https://github.com/appaniakhil" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-<p align="center">Let's connect and build data-driven solutions together! 🚀</p>
+<p align="center">Let's collaborate on innovative data solutions! 🚀</p>
