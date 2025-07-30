@@ -19,7 +19,7 @@
 - 💻 Expert in building **machine learning models**, **data pipelines**, and **interactive dashboards** using Python, PySpark, SQL, and cloud platforms (AWS, Azure, GCP)
 - 🚀 Passionate about delivering actionable insights through data storytelling and advanced analytics
 - 📫 Reach me at: **akhil.appani@gmail.com**
-- 🌐 Connect: [LinkedIn](https://linkedin.com/in/akhilappani) | [Twitter](https://twitter.com/appaniakhil) | [GitHub](https://github.com/appaniakhil)
+- 🌐 Connect: [LinkedIn](https://linkedin.com/in/akhilappani) | [X](https://X.com/appaniakhil) | [GitHub](https://github.com/appaniakhil)
 
 ---
 
