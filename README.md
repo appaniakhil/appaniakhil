@@ -15,7 +15,7 @@
 
 ### 📖 About Me
 - 🎓 M.S. in Data Science & Business Analytics, Saint Peter's University (GPA: 3.9/4.0)
-- 💼 6+ years of experience in data science, data engineering, and analytics in Retail, eCommerce, Financial Services, and Healthcare
+- 💼 7+ years of experience in data science, data engineering, and analytics in Retail, eCommerce, Financial Services, and Healthcare
 - 💻 Expert in building **machine learning models**, **data pipelines**, and **interactive dashboards** using Python, PySpark, SQL, and cloud platforms (AWS, Azure, GCP)
 - 🚀 Passionate about delivering actionable insights through data storytelling and advanced analytics
 - 📫 Reach me at: **akhil.appani@gmail.com**
